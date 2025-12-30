@@ -90,5 +90,4 @@ python opay_wrap.py
   - Place the downloaded Excel file in an accessible folder, or point the script to its path when prompted.
   - The script will convert the Excel file to CSV, parse transactions, and generate output (CSV, graphs, and summary stats) depending on the script options.
 
-If you'd like, I can also add an example command showing how to point `opay_wrap.py` at a specific file or extend the script's README with expected output samples.
 
